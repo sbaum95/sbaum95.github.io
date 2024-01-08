@@ -2,7 +2,7 @@
 title: "Extractive industries and gender equality"
 collection: publications
 permalink: /publication/2021-06-01-Extractive-industries-and-gender-equality
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 
 date: 2021-06-01
 venue: 'Review of Environmental Economics and Policy'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'

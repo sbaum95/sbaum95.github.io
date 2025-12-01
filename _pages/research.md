@@ -6,7 +6,9 @@ author_profile: true
 ---
 ## Working Papers
 <u><strong>1. Association of prenatal syphilis screening mandates with maternal syphilis case detection.</strong></u> 
+
 With Jessica Cohen, Leila Agha, and Nick Menzies
+
 *Under review*
 
 

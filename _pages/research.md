@@ -4,10 +4,14 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Selected Publications
-<u><strong>1. Association of prenatal syphilis screening mandates with maternal syphilis case detection.</strong></u> *Under review*
+## Working Papers
+<u><strong>1. Association of prenatal syphilis screening mandates with maternal syphilis case detection.</strong></u> 
+With Jessica Cohen, Leila Agha, and Nick Menzies
+*Under review*
 
-Baum, S, Pelissari D et al. (2024) Surveillance for TB drug resistance using routine rapid diagnostic testing data: Methodological development and application in Brazil. PLOS Computational Biology.
+
+## Publications
+<u><strong> 1. Baum, S, Pelissari D et al. (2024) Surveillance for TB drug resistance using routine rapid diagnostic testing data: Methodological development and application in Brazil. PLOS Computational Biology.
 
 Baum, S and Benshaul-Tolonen A. (2021) Extractive Industries and Gender Equality. Review of Environmental Economics and Policy.
 

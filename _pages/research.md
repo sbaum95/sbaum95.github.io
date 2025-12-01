@@ -8,9 +8,9 @@ author_profile: true
 <span style="font-size: 12px;">
 <u><strong>1. Association of prenatal syphilis screening mandates with maternal syphilis case detection</strong></u> 
 
-*Under review*. With Jessica Cohen, Leila Agha, and Nick Menzies
+*Under review*. With Jessica Cohen, Leila Agha, and Nick Menzies</span>
 
-</span>
+
 ## Selected Publications
 <u><strong>1. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012662">Surveillance for TB drug resistance using routine rapid diagnostic testing data: Methodological development and application in Brazil</a></strong></u>  
 *PLOS Computational Biology, 2024*. With Daniele Pelissari, Fernanda Dockhorn Costa, Luiza Harada, Mauro Sanchez, Patricia Bartholomay, Ted Cohen, Marcia Castro, Nicolas Menzies

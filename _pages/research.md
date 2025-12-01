@@ -11,8 +11,8 @@ author_profile: true
 
 
 ## Selected Publications
-<u><strong> 1. <a href="[https://example.com](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012662)">Surveillance for TB drug resistance using routine rapid diagnostic testing data: Methodological development and application in Brazil </strong></u>  
-*PLOS Computational Biology, 2024*. With 
+<u><strong>1. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012662">Surveillance for TB drug resistance using routine rapid diagnostic testing data: Methodological development and application in Brazil</a></strong></u>  
+*PLOS Computational Biology, 2024*. With Daniele Pelissari, Fernanda Dockhorn Costa, Luiza Harada, Mauro Sanchez, Patricia Bartholomay,Ted Cohen, Marcia Castro, Nicolas Menzies
 
 <u><strong> 2. Baum, S and Benshaul-Tolonen A. (2021) Extractive Industries and Gender Equality.  </strong></u>  
 *Review of Environmental Economics and Policy, 2021*. With Anja Benshaul-Tolonen

@@ -19,28 +19,16 @@ author_profile: true
 <u><strong> 2. <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/715525">Extractive Industries and Gender Equality </strong></u>  
 *Review of Environmental Economics and Policy, 2021*. With Anja Benshaul-Tolonen
 
-What is the impact of extractive industries such as oil, gas, and mining on gender equality? We seek to answer this question. A correlational analysis of cross-country data indicates that resource-dependent countries generally have greater gender inequality, lower education levels for men and women, lower absolute female welfare, and more conservative attitudes toward women. To further explore the relationship between extractive industries and gender equality, we review the empirical literature on extractive industries and their gender-specific effects. The literature review reveals that extractive industries have highly gender-specific effects, with economic impacts such as job creation interacting with gender norms (e.g., gender segregation in labor markets) to affect labor and marriage markets, fertility, and violence. Health, including sexual, reproductive, and infant health, is determined by environmental factors, such as pollution, but the negative effects of these environmental factors can be partly offset by economic opportunities. We argue that program evaluation research is needed to explore ways to strengthen the beneficial effects of extractive industries on gender equality while mitigating their undesirable effects.
+<strong>Abstract:</strong> What is the impact of extractive industries such as oil, gas, and mining on gender equality? We seek to answer this question. A correlational analysis of cross-country data indicates that resource-dependent countries generally have greater gender inequality, lower education levels for men and women, lower absolute female welfare, and more conservative attitudes toward women. To further explore the relationship between extractive industries and gender equality, we review the empirical literature on extractive industries and their gender-specific effects. The literature review reveals that extractive industries have highly gender-specific effects, with economic impacts such as job creation interacting with gender norms (e.g., gender segregation in labor markets) to affect labor and marriage markets, fertility, and violence. Health, including sexual, reproductive, and infant health, is determined by environmental factors, such as pollution, but the negative effects of these environmental factors can be partly offset by economic opportunities. We argue that program evaluation research is needed to explore ways to strengthen the beneficial effects of extractive industries on gender equality while mitigating their undesirable effects.
 
 <u><strong> 3. <a href="https://journals.lww.com/jphmp/abstract/2020/03000/cost_comparison_between_2_responses_to_hepatitis_a.12.aspx">Cost comparison between two responses to Hepatitis A virus incidents in restaurant food handlers—New York City, 2015 and 2017. </strong></u>  
 *Journal of Public Health Management and Practice, 2020*. With Vasudha Reddy, Neil Vora, Sharon Balter, Demetre Daskalakis, Oxiris Barbot, Mark Misener, Jennifer Rakeman, John Rojas, David Starr, HaeNa Waechter, Jane Zucker, David Lee
-Context: 
-While the New York City Department of Health and Mental Hygiene (DOHMH) can use agency-wide emergency activation to respond to a hepatitis A virus–infected food handler, there is a need to identify alternative responses that conserve scarce resources.
-
-Objective: 
-To compare the costs incurred by DOHMH of responding to a hepatitis A case in restaurant food handlers using an agency-wide emergency activation (2015) versus the cost of collaborating with a private network of urgent care clinics (2017).
-
-Design: 
-We partially evaluate the costs incurred by DOHMH of responding to a hepatitis A case in a restaurant food handler using agency-wide emergency activation (2015) with the cost of collaborating with a private network of urgent care clinics (2017) estimated for a scenario in which DOHMH incurred the retail cost of services rendered.
-
-Results: 
-Costs incurred by DOHMH for emergency activation were $65 831 ($238 per restaurant employee evaluated) of which DOHMH personnel services accounted for 85% ($55 854). Costs of collaboration would have totaled $50 914 ($253 per restaurant employee evaluated) of which personnel services accounted for 6% ($3146).
-
-Conclusions: 
-Accounting for incident size, collaborating with the clinic network was more expensive than agency-wide emergency activation, though required fewer DOHMH personnel services.
+<strong>Abstract:</strong> Context: While the New York City Department of Health and Mental Hygiene (DOHMH) can use agency-wide emergency activation to respond to a hepatitis A virus–infected food handler, there is a need to identify alternative responses that conserve scarce resources. Objective: To compare the costs incurred by DOHMH of responding to a hepatitis A case in restaurant food handlers using an agency-wide emergency activation (2015) versus the cost of collaborating with a private network of urgent care clinics (2017). Design:  We partially evaluate the costs incurred by DOHMH of responding to a hepatitis A case in a restaurant food handler using agency-wide emergency activation (2015) with the cost of collaborating with a private network of urgent care clinics (2017) estimated for a scenario in which DOHMH incurred the retail cost of services rendered. Results: Costs incurred by DOHMH for emergency activation were $65 831 ($238 per restaurant employee evaluated) of which DOHMH personnel services accounted for 85% ($55 854). Costs of collaboration would have totaled $50 914 ($253 per restaurant employee evaluated) of which personnel services accounted for 6% ($3146). Conclusions: Accounting for incident size, collaborating with the clinic network was more expensive than agency-wide emergency activation, though required fewer DOHMH personnel services.
 
 ## Works in progress
 <u><strong>1. Selection and surveillance: Linking changes in safety net access and STI case detection</strong></u>  
 
 <u><strong>2. Physician responses to changes in local epidemiology: A movers design leveraging shocks to Lyme disease risk</strong></u> 
 
-<u><strong>3. Identifying pathways to TB drug resistance in Brazil</strong></u> Joint with Nick Menzies
+<u><strong>3. Identifying pathways to TB drug resistance in Brazil</strong></u> 
+Joint with Nick Menzies

@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Department of Global Health and Population at the Harvard T.H. Chan School of Public Health. 
+I am a PhD candidate in Population Health Sciences (Department of Global Health and Population) at Harvard University. 
 
-My research is at the intersection of health economics and infectious diseases, with a focus on the role of human behavior in disease prevention, detection, and transmission. I combine health economics, causal inference methods, and mathematical modeling to study how individual and provider decision-making, 
-particularly around demand for and supply of diagnostic testing, impact disease surveillance data.
+I study the drivers of patient and provider demand for diagnostic information, interventions aimed at improving the allocation of testing, and approaches to correct potential biases from these sources of selection in surveillance data. My research combines applied microeconomics, infectious disease modeling, and quasi-experimental causal inference methods. 
 
-Prior to starting my PhD, I worked at MIT’s Abdul Latif Jameel Poverty Action Lab (J-PAL), EcoHealth Alliance, Population Services International, and the New York City Department of Health and Mental Hygiene. I received my BA in Economics from Barnard College, Columbia University in 2017. 
+I am affiliated with the Center for Communicable Disease Dynamics and the Institute for Quantitative Social Science. 
+
+Prior to starting my PhD, I worked at MIT’s Abdul Latif Jameel Poverty Action Lab (J-PAL), Population Services International, EcoHealth Alliance, and the New York City Department of Health and Mental Hygiene. I received my BA in Economics from Barnard College, Columbia University. 
+

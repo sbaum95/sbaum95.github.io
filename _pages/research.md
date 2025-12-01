@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Selected Publications
-Baum, S, Agha L, Menzies N, Cohen J. (2025) Association of prenatal syphilis screening mandates with maternal syphilis case detection. Under review.
+<u><strong>1. Association of prenatal syphilis screening mandates with maternal syphilis case detection.</strong></u> *Under review*
 
 Baum, S, Pelissari D et al. (2024) Surveillance for TB drug resistance using routine rapid diagnostic testing data: Methodological development and application in Brazil. PLOS Computational Biology.
 

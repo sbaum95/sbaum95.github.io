@@ -6,19 +6,14 @@ author_profile: true
 ---
 ## Working Papers
 <u><strong>1. Association of prenatal syphilis screening mandates with maternal syphilis case detection</strong></u> 
-
-With Jessica Cohen, Leila Agha, and Nick Menzies
-
-*Under review*
+*Under review* With Jessica Cohen, Leila Agha, and Nick Menzies
 
 
 ## Selected Publications
-<u><strong> 1. Baum, S, Pelissari D et al. (2024) Surveillance for TB drug resistance using routine rapid diagnostic testing data: Methodological development and application in Brazil </strong></u>  
-
+<u><strong> 1. Surveillance for TB drug resistance using routine rapid diagnostic testing data: Methodological development and application in Brazil </strong></u>  
 *PLOS Computational Biology, 2024* With 
 
 <u><strong> 2. Baum, S and Benshaul-Tolonen A. (2021) Extractive Industries and Gender Equality.  </strong></u>  
-
 *Review of Environmental Economics and Policy, 2021* With Anja Benshaul-Tolonen
 
 <u><strong> 3. Cost comparison between two responses to Hepatitis A virus incidents in restaurant food handlers—New York City, 2015 and 2017. </strong></u>  

@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download CV](http://sbaum95.github.io/files/cv.pdf)
+[CV - November 2025](http://sbaum95.github.io/files/cv.pdf)

@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Selected Publications
-<strong>1. <strong>1. <a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2846546">Association of prenatal syphilis screening mandates with maternal syphilis case detection</strong> Prenatal Syphilis Screening Mandates and Maternal Syphilis Case Detection</a></strong>
+<strong>1. <a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2846546">Association of prenatal syphilis screening mandates with maternal syphilis case detection</strong> Prenatal Syphilis Screening Mandates and Maternal Syphilis Case Detection</a></strong>
 
 *JAMA Health Forum, 2026*. With Jessica Cohen, Leila Agha, and Nick Menzies
 

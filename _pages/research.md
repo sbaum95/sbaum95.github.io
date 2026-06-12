@@ -24,6 +24,6 @@ author_profile: true
 ## Works in progress
 <strong>1. Selection and surveillance: Linking changes in safety net access and STI case detection</strong>
 
-<strong>2. Physician responses to changes in local epidemiology risk</strong> 
+<strong>2. Physician responses to changes in local epidemiology</strong> 
 
 <strong>3. Identifying pathways to TB drug resistance in Brazil</strong> Joint with Nick Menzies

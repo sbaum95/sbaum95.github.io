@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sarah E. Baum"
+title                    : "Sarah Baum"
 title_separator          : "-"
-name                     : &name "Sarah E. Baum"
-description              : &description "Ph.D. Candidate in Population Health Sciences (Global Health and Population)"
+name                     : &name "Sarah Baum"
+description              : &description "Ph.D. Candidate, Department of Global Health and Population"
 url                      : https://sbaum95.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sbaum95/sbaum95.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sarah E. Baum"
+  name             : "Sarah Baum"
   avatar           : "Baum_headshot_2024.jpeg"
   bio              : "Ph.D. Candidate in Population Health Sciences (Global Health and Population), Harvard University"
   location         : "Cambridge, MA, USA"

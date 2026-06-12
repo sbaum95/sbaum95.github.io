@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate the Department of Global Health and Population at Harvard University. 
+I am a PhD candidate in the Department of Global Health and Population at Harvard University. 
 
 I study the drivers of patient and provider demand for diagnostic information, interventions aimed at improving the allocation of testing, and approaches to correct potential biases from these sources of selection in surveillance data. My research combines applied microeconomics, infectious disease modeling, and quasi-experimental causal inference methods. 
 

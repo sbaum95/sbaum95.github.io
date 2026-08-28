@@ -16,3 +16,5 @@ I am affiliated with the Center for Communicable Disease Dynamics and the Instit
 
 Prior to starting my PhD, I worked at MIT’s Abdul Latif Jameel Poverty Action Lab (J-PAL), Population Services International, EcoHealth Alliance, and the New York City Department of Health and Mental Hygiene. I received my BA in Economics from Barnard College, Columbia University. 
 
+\textbf{I am currently on the job market (2026-2027).}
+

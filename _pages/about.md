@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<strong> I am currently on the 2026-2027 job market
+<strong> I am currently on the 2026-2027 job market </strong>
 
 I am a PhD candidate in Population Health Sciences at Harvard University, working at the intersection of health economics and infectious disease epidemiology. 
 

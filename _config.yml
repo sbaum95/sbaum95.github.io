@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sarah Baum"
+title                    : "Sarah E. Baum"
 title_separator          : "-"
-name                     : &name "Sarah Baum"
+name                     : &name "Sarah E. Baum"
 description              : &description "Ph.D. Candidate, Department of Global Health and Population"
 url                      : https://sbaum95.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  "Baum_headshot_2024.jpeg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/sebaum2206"
   orcid            : 
   pinterest        :
   soundcloud       :

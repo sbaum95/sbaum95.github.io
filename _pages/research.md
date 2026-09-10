@@ -2,6 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /research/
+excerpt: "Research by Sarah Baum on health care decision making, syphilis screening policy, and population health, combining quasi-experimental methods and infectious disease modeling."
 author_profile: true
 ---
 ## Selected Publications

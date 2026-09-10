@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Sarah Baum is a PhD candidate in Population Health Sciences at Harvard studying how information shapes health care decisions, using causal inference and infectious disease modeling."
+excerpt: "Sarah Baum is a PhD candidate in Population Health Sciences at Harvard studying how information shapes health care decisions, using causal inference methods and infectious disease modeling."
 author_profile: true
 redirect_from: 
   - /about/

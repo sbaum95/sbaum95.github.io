@@ -5,9 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Selected Publications
-<strong>1. <a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2846546">Prenatal Syphilis Screening Mandates and Maternal Syphilis Case Detection</a></strong>
-
-*JAMA Health Forum, 2026*. With Jessica Cohen, Leila Agha, and Nick Menzies
+1. <strong>Baum, S.E.<strong>, Agha, L., Menzies, N.A., and Cohen, J. (2026) <a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2846546"> Prenatal syphilis screening mandates and maternal syphilis case detection. JAMA Health Forum, 7(3): e260123.
 
 <strong>2. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012662">Surveillance for TB drug resistance using routine rapid diagnostic testing data: Methodological development and application in Brazil</a></strong>
 

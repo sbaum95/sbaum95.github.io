@@ -11,7 +11,7 @@ title                    : "Sarah E. Baum"
 title_separator          : "-"
 name                     : &name "Sarah E. Baum"
 description              : &description "Ph.D. Candidate, Department of Global Health and Population"
-url                      : https://sbaum95.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sarahebaum.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sbaum95/sbaum95.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=QHJ90tEAAAAJ&hl=en"
   email            : "sbaum@g.harvard.edu"
   researchgate     :  
-  uri              :
+  uri              : "https://sarahebaum.com"
   bitbucket        :
   codepen          :
   dribbble         :

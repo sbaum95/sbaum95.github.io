@@ -13,8 +13,8 @@ Media coverage: <a href="https://www.medpagetoday.com/obgyn/stds/120411"> MedPag
 
 4. Graham, S.B., Machalaba, C., <strong>Baum, S.E.</strong>, Raufman, J., and Hill, S.E. (2023) <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10204136/"> Applying a One Health lens to understanding the impact of climate and environmental change on healthcare-associated infections</a>.  <em>Antimicrobial Stewardship & Healthcare Epidemiology </em>, 3(1): e93.
 
-5. <strong>Baum, S.E.</strong> and Anja Benshaul-Tolonen. (2021) <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/715525"> Extractive Industries and Gender Equality</a>.
-<em>Review of Environmental Economics and Policy</em>,15(2): 195–215.
+5. <strong>Baum, S.E.</strong> and Benshaul-Tolonen, A. (2021) <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/715525"> Extractive Industries and Gender Equality</a>.
+<em>Review of Environmental Economics and Policy</em>, 15(2): 195–215.
 
 6. <strong>Baum, S.E.</strong>, Reddy, V., Vora, N.M., Balter, S., Daskalakis, D., Barbot, O., Misener, M., Rakeman, J., Rojas, J., Starr, D., Waechter, H., Zucker, J., and Lee, D. (2020) <a href="https://journals.lww.com/jphmp/abstract/2020/03000/cost_comparison_between_2_responses_to_hepatitis_a.12.aspx">Cost comparison between 2 responses to hepatitis A virus incidents in restaurant food handlers—New York City, 2015 and 2017</a>. <em>Journal of Public Health Management and Practice</em>, 26(2): 176–179.
    

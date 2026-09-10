@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+excerpt: "Curriculum vitae of Sarah Baum, PhD candidate in Population Health Sciences at Harvard University."
 redirect_from:
   - /resume
 ---

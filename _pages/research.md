@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Selected Publications
-1. <strong>Baum, S.E.</strong>, Agha, L., Menzies, N.A., and Cohen, J. (2026) <a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2846546">Prenatal syphilis screening mandates and maternal syphilis case detection</a>. <em>JAMA Health Forum</em>, 7(3): e260123.
+1. <strong>Baum, S.E.</strong>, Agha, L., Menzies, N.A., and Cohen, J. (2026) <a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2846546">Prenatal syphilis screening mandates and maternal syphilis case detection</a>. <em>JAMA Health Forum</em>, 7(3): e260123. <br>
 Media coverage: <a href="https://www.medpagetoday.com/obgyn/stds/120411"> MedPage Today</a>, <a href="https://www.contemporaryobgyn.net/view/expanded-prenatal-syphilis-screening-mandates-show-limited-long-term-impact-on-case-detection"> Contemporary OB/GYN</a>, <a href="https://www.cidrap.umn.edu/sexually-transmitted-infections/mandatory-maternal-syphilis-screening-may-have-temporarily"> CIDRAP</a>
 
 3. <strong>Baum, S.E.</strong>, Pelissari, D.M., Dockhorn Costa, F., Harada, L.O., Sanchez, M., Bartholomay, P., Cohen, T., Castro, M.C., and Menzies, N.A. (2024)  <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012662">. Surveillance for TB drug resistance using routine rapid diagnostic testing data: Methodological development and application in Brazil</a>. <em>PLOS Computational Biology</em>, 20(12): e1012662.

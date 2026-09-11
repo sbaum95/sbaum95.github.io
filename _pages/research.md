@@ -8,7 +8,7 @@ author_profile: true
 ## Job market paper
 <strong>Selection and surveillance: Linking changes in safety net access and STI case detection </strong>
 
-<a href="files/SBaum_JMP_TitleX_Surveillance.pdf">Paper</a>
+<a href="http://sbaum95.github.io/files/SBaum_JMP_TitleX_Surveillance.pdf">Paper</a>
 
 
 ## Selected publications
